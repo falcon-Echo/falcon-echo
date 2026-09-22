@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I’m Jagjot Singh Manoor 👋
+Cybersecurity • Networking
 
-<!--
-**falcon-Echo/falcon-echo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building a career around cybersecurity and networking, with a focus on understanding how systems, networks, and infrastructure work — and how to secure them.
 
-Here are some ideas to get you started:
+🎯 Current Focus
+🌐 Networking & CCNA
+🛡️ Cybersecurity fundamentals
+🔐 Active Directory security
+🧪 Security labs & hands-on practice
+🖥️ Network troubleshooting and infrastructure
+🧭 Learning Path
+My current learning journey is focused on building strong fundamentals before specializing further:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Networking → Cybersecurity → Cloud Infrastructure → Cloud Security
+
+I’m documenting my hands-on learning, labs, notes, and projects along the way.
+
+📂 What You’ll Find Here
+CCNA — networking concepts, labs, configurations, and troubleshooting
+Cybersecurity — security concepts and practical notes
+HTB — hands-on labs and learning documentation
+Home Labs — networking and security experiments
+Projects — practical implementations and experiments
+Learn the fundamentals. Build it. Break it. Understand it. Secure it.
+
+🚀 Long-Term Goal
+Build deep expertise across networking, cybersecurity, cloud infrastructure, and cloud security, eventually progressing toward security engineering and architecture.
+
+📌 Current Status
+Learning • Building • Documenting
